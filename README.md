@@ -2,9 +2,7 @@
 
 The following is a focused exploration of how deep learning models perceive and prioritize features in satellite imagery.  
 
-Using **Convolutional Neural Networks (CNNs)**, **Transfer Learning**, and **Integrated Gradients**, this report applies **Explainable AI (XAI)** techniques to uncover what drives a model’s decisions—and what it “sees” when it looks at the Earth from space.
-
-> The report blends performance analysis with interpretability, offering a lens into the inner logic of neural networks.
+Using **Convolutional Neural Networks (CNNs)**, **Transfer Learning**, and **Integrated Gradients**, this report applies **Explainable AI (XAI)** techniques to uncover what drives a model’s decisions—and what it “sees” when it looks at the Earth from space, offering a lens into the inner logic of neural networks.
 
 ![1](./assets/1.jpg)
 ![2](./assets/2.jpg)
