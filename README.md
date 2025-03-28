@@ -1,3 +1,4 @@
+> **Full text available on my [ResearchGate profile](https://www.researchgate.net/profile/Yene-Irvine)**
 ## Interpreting Deep Learning: An Application of Explainable AI (XAI) in Satellite Image Classification
 
 The following is a focused exploration of how deep learning models perceive and prioritize features in satellite imagery.  
