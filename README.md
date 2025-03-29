@@ -23,8 +23,7 @@ The final classifiers achieved:
 Below are examples of Integrated Gradients attributions for correctly and incorrectly classified satellite images.  
 Brighter red areas show which pixels contributed most to the model’s prediction.
 
-The **first image** is the *only misclassified example* in the test set.  
-The rest were predicted correctly.
+The **first image** below is an example of an incorrect classification by the model, of which there were very few (just 0.6% of the test set).
 
 <div style="display: flex; gap: 10px; overflow-x: auto;">
   <img src="gallery/images/incorrect.png" width="400"/>
