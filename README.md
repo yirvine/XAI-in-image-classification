@@ -33,6 +33,8 @@ The rest were predicted correctly.
   <img src="gallery/images/12.png" width="400"/>
 </div>
 
+###  👉 More attribution map images from the test set, like the ones above, are available [here.](./gallery/gallery.md)
+
 ---
 
 ## Notebooks
@@ -44,13 +46,6 @@ Two models were developed and trained using the same XAI pipeline:
 
 - 🏷️ [35-Class Classifier](./notebooks/35-Class-Classifier.ipynb)  
   A fine-grained classifier with detailed subcategories (e.g., *river*, *shrubland*, *ocean*)
-
----
-
-## Full Attribution Gallery
-
-Explore over 40 attribution maps from the test set:  
-👉 [Open the full scrollable gallery](./gallery/gallery.md)
 
 ---
 
