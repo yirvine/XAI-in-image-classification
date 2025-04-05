@@ -40,10 +40,10 @@ The **first image** below is an example of an incorrect classification by the mo
 
 Two models were developed and trained using the same XAI pipeline:
 
-- 🏷️ [7-Class Classifier](./notebooks/7-Class-Classifier.ipynb)  
+- 🏷️ [7-Class Classifier](./notebooks/7-Class-Classifier-cleaned.ipynb)  
   Groups satellite land types into general categories (e.g., *urban*, *water*, *woodland*)
 
-- 🏷️ [35-Class Classifier](./notebooks/35-Class-Classifier.ipynb)  
+- 🏷️ [35-Class Classifier](./notebooks/35-Class-Classifier-cleaned.ipynb)  
   A fine-grained classifier with detailed subcategories (e.g., *river*, *shrubland*, *ocean*)
 
 ---
